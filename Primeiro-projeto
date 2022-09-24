@@ -1,5 +1,39 @@
 <html>
-<h1>
-Primeiro código
-</h1>
+<head>
+    <meta charset="utf-8">
+    <title>
+        Site do cristofer
+    </title>
+   
+    <style>
+    	h1 {
+    		text-align: center;
+    		background: black;
+    		color: red
+
+
+    	}
+    </style>
+</head>
+<body>
+	<img src="https://i.pinimg.com/736x/80/69/53/8069535b2d69898d1766e3594f0e26bc--friday-night-lights-friday-nights.jpg" width="80%">
+    
+    <h1>SITE DO CRISTOFER</h1>
+
+<p>lista de carros <b>JDM</b></p>
+<p>E peças de para esses carros</p>
+
+
+<p>nomes de carros</p>
+<ol>
+    <li>gtr-r35</li>
+    <img src=:"https://libertywalk.co.jp/wp-content/uploads/slider49/LBWORKS_NISSAN_GT-R_TYPE2_0.jpeg" width="20%>
+    <li>rx7</li>
+    <li>supra</li>
+</ol>
+<p>nomes de peças</p>
+<li>TURBINA</li>
+<li>MOTOR</li>
+<li>SUPER-CHARGE</li>
+</body>
 </html>
